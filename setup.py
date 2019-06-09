@@ -54,6 +54,5 @@ setup(
         "Programming Language :: Python :: 3.4",
     ],
     install_requires = ['nltk >= 3.0.0',
-                        ],
-    extras_require = ['termcolor >= 1.1.0', ]
+                        'termcolor >= 1.1.0',],
 )
